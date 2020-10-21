@@ -5,6 +5,5 @@
 
 ## URL / Live version
 To check out the live demo of this app:
-- [azoom.herokuapp.com](https://azoom.herokuapp.com)
+- [https://akhil-demo.herokuapp.com/](https://akhil-demo.herokuapp.com/)
 
-![Zoom Clone Room](https://github.com/louiejancevski/ZoomClone/blob/master/public/img/zoom.png)
